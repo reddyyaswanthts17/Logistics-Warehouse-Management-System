@@ -3,3 +3,4 @@
 - [ Inventory Management, Space Optimization, Shipment Handling, Maintenance Scheduling, Performance Reporting]
 - Frontend is developed using HTML, CSS and JavaScript
 - Backend is developed using Java, Spring Boot and MySQL Database
+- Frontend and Backend is connected via Js Fetch API
